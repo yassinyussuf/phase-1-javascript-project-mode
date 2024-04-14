@@ -1,0 +1,125 @@
+{
+    "excersise": [{
+            "id": 1,
+            "name": "Incline Hammer Curls",
+            "type": "strength",
+            "muscle": "biceps",
+            "image": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2017/08/incline-dumbbell-vs-preacher-curl.jpg?quality=86&strip=all",
+            "equipment": "dumbbell",
+            "difficulty": "beginner",
+            "instructions": "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against the back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position. Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary. Continue to the top of the movement and pause, then slowly return to the start position."
+        },
+        {
+            "id": 2,
+            "name": "squat",
+            "type": "strength",
+            "muscle": "maximus, hip flexors, and quadriceps.",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/man-doing-gym-front-squat-royalty-free-image-1649261343.jpg",
+            "equipment": "Barbell or 2 Dumbbells",
+            "difficulty": "beginner",
+            "instructions": "Load a barbell on a rack at upper-chest height, Step under the barbell so that it rests on the back of your shoulders, and grasp the bar at each side, Dismount the barbell and step backward carefully, Your feet should be shoulder-width apart and pointing slightly outwards, Inhale as you squat down by simultaneously pushing your butt backward and bending your knees forward, Keep your torso upright, and descend at least until your knees are bent at a 90-degree angle, Exhale as you push your body back up to the starting position, driving through your heels and keeping your torso upright, repeat  "
+
+        }, {
+            "id": 3,
+            "name": "overhead press",
+            "type": "strength and size",
+            "muscle": "trapezius, triceps, and core",
+            "image": "https://www.mensjournal.com/.image/t_share/MTk2MTM2OTEwMjczNzE3NzY1/should-i-do-the-overhead-press.jpg",
+            "equipment": "barbell or dumbbells",
+            "difficulty": "medium",
+            "instructions": "Clean the barbell up to your chest, Push the barbell above your head by extending your elbows, Once you reach the top, Repeat the movement for the desired number of repetitions.  "
+
+        },
+        {
+            "id": 4,
+            "name": "Bent over row",
+            "type": " back muscles strength",
+            "muscle": " Latissimus Dorsi, Rhomboids, Spinal Erectors, and Trapezius muscles.",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/shot-of-a-sporty-young-man-exercising-with-a-royalty-free-image-1683716587.jpg",
+            "equipment": "dumbbell",
+            "difficulty": "medium",
+            "instructions": "Stand behind a barbell with your feet shoulder-width apart, Hold for a second at the top and then slowly lower the barbell back to the starting position with arms extended, The bent-over row primarily targets the latissimus dorsi, middle and lower trapezius, rhomboids, and posterior deltoids, working the back and shoulders effectively, Keep your knees slightly bent and hinge at the hips to protect your lower back. "
+
+        },
+        {
+            "id": 5,
+            "name": "Biceps curl",
+            "type": " biceps strength",
+            "muscle": "biceps muscle",
+            "image": "https://www.shutterstock.com/image-illustration/dumbbell-biceps-curl-upper-arms-600nw-2327162897.jpg",
+            "equipment": "dumbbell",
+            "difficulty": "medium",
+            "instructions": "Stand straight with a dumbbell in each hand, Squeeze your biceps and lift the dumbbells, keeping the elbows close to your body and the upper arms stationary, Repeat for the desired number of sets and repetitions."
+
+        },
+        {
+            "id": 6,
+            "name": "Bench press",
+            "type": "triceps strength",
+            "muscle": "triceps, delts, and scapula",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kXHk6oodUlP-QCPwC5I51ZkSkGnflceO6N6TW1iWAg&s",
+            "equipment": " barbell or dumbbells,",
+            "difficulty": "medium",
+            "instructions": "Lie on your back on a bench with your feet flat on the floor, Hold the barbell above your upper-chest area with arms extended, Avoid bouncing the barbell off the chest and lifting your buttocks off the bench, Have a spotter behind you to assist with the barbell and ensure safety. "
+
+        },
+        {
+            "id": 7,
+            "name": "Dumbbell row",
+            "type": " biceps strength",
+            "muscle": "latissimus dorsi, trapezius, and rhomboids",
+            "image": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/dumbbell-row-top-position.png?resize=700%2C701&ssl=1",
+            "equipment": "dumbbell",
+            "difficulty": "beginners",
+            "instructions": "Stand with your feet hip-distance apart, holding a dumbbell in one hand, Lower the dumbbell toward the floor, fully extending your elbow while maintaining proper posture, Aim for two to three sets with a one-minute rest between sets."
+
+        },
+        {
+            "id": 8,
+            "name": "Barbell squat",
+            "type": "strength",
+            "muscle": "hip flexors, and quadriceps",
+            "image": "https://weighttraining.guide/wp-content/uploads/2016/10/barbell-squat-resized-FIXED-2.png",
+            "equipment": " barbell and weight plates",
+            "difficulty": "hard",
+            "instructions": "Load a barbell on a rack at upper-chest height, Step under the barbell so that it rests on the back of your shoulders, and grasp the bar at each side, Dismount the barbell and step backward carefully, Your feet should be shoulder-width apart and pointing slightly outwards, Inhale as you squat down by simultaneously pushing your butt backward and bending your knees forward, Keep your torso upright, and descend at least until your knees are bent at a 90-degree angle, Exhale as you push your body back up to the starting position, driving through your heels and keeping your torso upright., repeat.  "
+
+        },
+        {
+            "id": 9,
+            "name": "Renegade row",
+            "type": "strength",
+            "muscle": "the upper body and core.",
+            "image": "https://hips.hearstapps.com/vidthumb/images/2019-mh-formcheck-renegaderow-ep-14-mo-v4-00-05-52-21-still003-1555515615.png?crop=1.00xw:1.00xh;0,0",
+            "equipment": "pair of dumbbells, a preacher station, or an adjustable weight bench.",
+            "difficulty": "medium",
+            "instructions": "Start in a high plank position with your hands on the handles of two dumbbells, Row one dumbbell up to your waist, keeping your elbow close to your body and avoiding any shifting of your hips, Lower the dumbbell back to the starting position under control, Repeat the movement with the other arm to complete one rep.  "
+
+        },
+        {
+            "id": 10,
+            "name": "Hammer curl",
+            "type": "strength",
+            "muscle": " biceps brachii, brachialis, and brachioradialis ",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/hammer-curls-1581441441.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+            "equipment": "dumbbell",
+            "difficulty": "medium",
+            "instructions": "tand with your feet hip-width apart, holding a dumbbell in each hand with a neutral grip,  Bend your elbows and curl the dumbbells up towards your shoulders while keeping your palms facing each other, Perform the desired number of repetitions for your workout plan. "
+
+        },
+
+        {
+            "id": 11,
+            "name": "Pushups",
+            "type": "triceps strength",
+            "muscle": " large chest muscle, anterior deltoid, the front of the shoulder.",
+            "image": "https://www.fitnesseducation.edu.au/wp-content/uploads/2017/03/Pushups.jpg",
+            "equipment": "normal exercise",
+            "difficulty": "beginner",
+            "instructions": "Keep your arms in an arrow shape,Squeeze your glutes and brace your abs before descending to keep the ribcage neutral,Keep your chin down and avoid looking forward, Ensure your chest and nose touch the floor at the same time, Push all the way through the floor at the top of the repetition and allow your shoulder blades to move around your ribcage "
+
+        }
+
+
+    ]
+}
