@@ -100,3 +100,15 @@ section{
 }
 .home .home-image{
     width: 50%;  
+}
+.home .home-content img{
+    width: 100%;
+    height: 100%;
+}
+#yassin li{
+    color: #fff;
+
+}
+.home-content{
+    color: #fff;
+}
