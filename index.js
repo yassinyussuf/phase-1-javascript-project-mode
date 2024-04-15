@@ -22,7 +22,6 @@ navLinks.forEach(link => {
 
 
 
-
 function fitnessGym2 (gym) {
     const span = document.createElement('li');
     span.innerHTML = `
