@@ -1,3 +1,21 @@
+// Get all navigation links
+const navLinks = document.querySelectorAll('.nav-link');
+
+// Function to handle navigation link clicks
+function handleNavLinkClick(event) {
+    event.preventDefault();
+    const page = this.getAttribute('data-page');
+    alert(`You clicked on ${page}`);
+    // You can add more specific logic here based on the page clicked
+}
+
+// Add event listeners to navigation links
+navLinks.forEach(link => {
+    link.addEventListener('click', handleNavLinkClick);
+});
+
+
+
 
 
 
@@ -8,13 +26,13 @@
 function fitnessGym2 (gym) {
     const span = document.createElement('li');
     span.innerHTML = `
-      <h4>${gym.name}</h4>
-      <p>${gym.type}</p>
-      <p>${gym.muscle}</p>
-      <img src="${gym.image}" width="350px">
-      <p>${gym.equipment}</p>
-      <p>${gym.difficulty}</p>
-      <p>${gym.instruction}</p>
+    <img src="${gym.image}" width="850px">
+      <p>${gym.name}</p><br>
+      <p>${gym.type}</p><br>
+      <p>${gym.muscle}</p><br>
+      <p>${gym.equipment}</p><br>
+      <p>${gym.difficulty}</p><br>
+      <p>${gym.instructions}</p>
       <button onclick="start(event, ${JSON.stringify(gym)})">start</button>
       <button onclick="train(event, ${JSON.stringify(gym)})">train</button>
     `;
