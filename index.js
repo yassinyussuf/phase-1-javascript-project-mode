@@ -22,21 +22,6 @@ navLinks.forEach(link => {
 
 
 
-function fitnessGym2 (gym) {
-    const span = document.createElement('li');
-    span.innerHTML = `
-    <img src="${gym.image}" width="850px">
-      <p>${gym.name}</p><br>
-      <p>${gym.type}</p><br>
-      <p>${gym.muscle}</p><br>
-      <p>${gym.equipment}</p><br>
-      <p>${gym.difficulty}</p><br>
-      <p>${gym.instructions}</p>
-      <button onclick="start(event, ${JSON.stringify(gym)})">start</button>
-      <button onclick="train(event, ${JSON.stringify(gym)})">train</button>
-    `;
-    document.getElementById('yassin').appendChild(span);
-  }
   
 //   function buy (event, gym) {
 //     event.preventDefault();
